@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\seiner_project_2018.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{07341FFC-D1AB-4ED4-BA4D-F75F3BAC97EE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\seiner_project_2018.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\seiner_project_2018Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{1498AE98-11C2-429C-BF43-BF590AD5306B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\seiner_project_2018">
+			<UniqueIdentifier>{EF144D01-C1F5-4036-BFDA-B11F47675C50}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\seiner_project_2018\seiner_project_2018.Build.cs">
+			<Filter>Source\seiner_project_2018</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\seiner_project_2018\seiner_project_2018.cpp">
+			<Filter>Source\seiner_project_2018</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\seiner_project_2018\seiner_project_2018.h">
+			<Filter>Source\seiner_project_2018</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\seiner_project_2018\seiner_project_2018Character.cpp">
+			<Filter>Source\seiner_project_2018</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\seiner_project_2018\seiner_project_2018Character.h">
+			<Filter>Source\seiner_project_2018</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\seiner_project_2018\seiner_project_2018GameMode.cpp">
+			<Filter>Source\seiner_project_2018</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\seiner_project_2018\seiner_project_2018GameMode.h">
+			<Filter>Source\seiner_project_2018</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
