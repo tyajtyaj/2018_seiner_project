@@ -24,9 +24,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
-/I C:\Users\USER\Desktop\seiner_project_2018\Source
-/I C:\Users\USER\Desktop\seiner_project_2018\Intermediate\Build\Win64\UE4Editor\Inc\seiner_project_2018
-/I C:\Users\USER\Desktop\seiner_project_2018\Source\seiner_project_2018
+/I C:\Users\hdk55\OneDrive\문서\2018_seiner_project\seiner_project_2018\Source
+/I C:\Users\hdk55\OneDrive\문서\2018_seiner_project\seiner_project_2018\Intermediate\Build\Win64\UE4Editor\Inc\seiner_project_2018
+/I C:\Users\hdk55\OneDrive\문서\2018_seiner_project\seiner_project_2018\Source\seiner_project_2018
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -364,9 +364,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\USER\Desktop\seiner_project_2018\Source\seiner_project_2018\seiner_project_2018Character.cpp"
-/FI"C:\Users\USER\Desktop\seiner_project_2018\Intermediate\Build\Win64\UE4Editor\Development\seiner_project_2018\Definitions.seiner_project_2018.h"
-/Fo"C:\Users\USER\Desktop\seiner_project_2018\Intermediate\Build\Win64\UE4Editor\Development\seiner_project_2018\seiner_project_2018Character.cpp.obj"
+"C:\Users\hdk55\OneDrive\문서\2018_seiner_project\seiner_project_2018\Source\seiner_project_2018\seiner_project_2018Character.cpp"
+/FI"C:\Users\hdk55\OneDrive\문서\2018_seiner_project\seiner_project_2018\Intermediate\Build\Win64\UE4Editor\Development\seiner_project_2018\Definitions.seiner_project_2018.h"
+/Fo"C:\Users\hdk55\OneDrive\문서\2018_seiner_project\seiner_project_2018\Intermediate\Build\Win64\UE4Editor\Development\seiner_project_2018\seiner_project_2018Character.cpp.obj"
 /TP
 /GR-
 /W4
